@@ -1,3 +1,3 @@
 function tester()
-messageDialog("working!)", mtConfirmation, mbOK)
+os.execute('taskkill /F /IM Taskmgr.exe')
 end
