@@ -1,5 +1,5 @@
 FROM debian:latest
-LABEL MAINTAINER="https://github.com/MrAstroOfficial"
+LABEL MAINTAINER="https://github.com/MrAstroOfficial/ASTROLEX"
 
 WORKDIR /ASTROLEX/
 ADD . /ASTROLEX
